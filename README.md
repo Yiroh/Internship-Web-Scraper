@@ -11,3 +11,4 @@ Currently, the found internship listings are outputted to the output/ folder. Th
 
 TODO: Set up a way to alert when new internships are released.
 TODO: Send output straight to a spreadsheet.
+TODO: Fix "Hit rate limit for LinkedIn requests".
