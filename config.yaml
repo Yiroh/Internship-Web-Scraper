@@ -1,12 +1,13 @@
 github:
   enabled: true
-  repoURL: "https://github.com/pittcsc/Summer2022-Internships"
+  repoURL: "https://github.com/Trident-Development/2024-new-grad-intern"
 linkedIn:
   enabled: true
   timespan: "week"
   queries: 
     - "software engineer intern"
     - "backend engineer intern"
+    - "embedded systems intern"
   desiredJobTitles: 
     - "intern"
     - "co-op"

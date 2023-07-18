@@ -3,3 +3,18 @@ beautifulsoup4>=4.9.3
 asyncio>=3.4.3
 requests>=2.23.0
 confuse>=1.4.0
+
+
+Instructions on how to download aiohttp:
+    https://docs.aiohttp.org/en/stable/
+Instructions on how to download beautifulsoup4:
+    https://pypi.org/project/beautifulsoup4/
+Instructions on how to download asyncio:
+    https://pypi.org/project/asyncio/
+Instructions on how to download requests:
+    https://pypi.org/project/requests/
+Instructions on how to download confuse:
+    https://pypi.org/project/confuse/
+
+I know it is as easy to install these requirements using `pip install _` but for
+the sake of people who may stumble into this as a starting project, it will hopefully help!
